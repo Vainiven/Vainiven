@@ -18,4 +18,4 @@ I am a enthiousiastic developer who loves to develop bots/automate games. I star
 - Discord Bots
 - Game Hacking
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Vainivens GitHub stats](https://github-readme-stats.vercel.app/api?username=Vainiven&show_icons=true&theme=radical)
