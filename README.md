@@ -20,3 +20,5 @@ I am a enthiousiastic developer who loves to develop bots/automate games. I star
 
 ![Vainivens GitHub stats](https://github-readme-stats.vercel.app/api?username=Vainiven&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vainiven&layout=compact)](https://github.com/Vainiven/github-readme-stats)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Vainiven/langs)](https://githubtrends.io)
