@@ -12,12 +12,13 @@
   
 </a>
 </div>
-
+<div id="badges" align="center">
 Hello ! 👋
 
 Discord: Vainiven#6986
 
 I am a enthiousiastic developer who loves to develop bots/automate games. I started with software development in the end of 2021 and haven't stopped learning since. Currently looking for a job in development.
+</div>
 
 :computer:Current Experience:
 - Java
@@ -32,6 +33,10 @@ I am a enthiousiastic developer who loves to develop bots/automate games. I star
 - OSINT
 - Discord Bots
 - Game Hacking
+
+
+
+
 
 
 <div id="badges" align="center">
