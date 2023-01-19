@@ -6,8 +6,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
+<div id="badges" align="center">
+  
 ![](https://komarev.com/ghpvc/?username=Vainiven)
+  
+</a>
+</div>
 
 Hello ! 👋
 
@@ -28,4 +32,13 @@ I am a enthiousiastic developer who loves to develop bots/automate games. I star
 - OSINT
 - Discord Bots
 - Game Hacking
+
+<i class="devicon-aftereffects-plain colored"></i>
+
+<div id="badges" align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
+  </a>
+</div>
+
+          
 
