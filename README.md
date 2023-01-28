@@ -24,8 +24,6 @@ I am a enthiousiastic developer who loves to develop bots/automate games. I star
 - Java
 - Eclipse
 - MySQL
-- HTML
-- PHP
 
 :bulb:Interests:
 - Runescape Bots
