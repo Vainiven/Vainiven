@@ -30,7 +30,6 @@ I am a enthiousiastic developer who loves to develop bots/automate games. I star
 - Runescape Private Server Bots
 - OSINT
 - Discord Bots
-- Game Hacking
 
 
 
