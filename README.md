@@ -22,6 +22,7 @@ I am a enthiousiastic developer who loves to develop bots/automate games. I star
 
 :computer:Current Experience:
 - Java
+- C#
 - Eclipse
 - MySQL
 - Little bit of PHP and HTML
