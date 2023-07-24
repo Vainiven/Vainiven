@@ -26,8 +26,6 @@ I am a enthiousiastic developer. I started with software development in the end 
 - Little bit of PHP and HTML
 - Swing
 
-:bulb:
-
 
 
 
