@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <h1>👋 Hello, I'm Vainiven! </h1>
-    <h3>A passionate software developer from The Netherlands</h3>
+    <h3>A passionate software developer</h3>
 </div>
 
 <div align="center">
